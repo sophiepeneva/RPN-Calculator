@@ -1,5 +1,5 @@
 # RPN-Calculator
-reverse polish notation c++
+reverse polish notation
 
 #include "Stack.h"
 #include <iostream>
